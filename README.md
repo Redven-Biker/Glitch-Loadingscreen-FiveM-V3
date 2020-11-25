@@ -1,5 +1,5 @@
 Discord : https://discord.gg/3rm8Jdf2Vq
 
-<img src="http://cloud.xlife.fr/images/loadingscreen/Glitch-Loadingscreen-FiveM-V3.png">
+<img src="http://cloud.xlife.fr/images/scripts/modern-identity.png">
 
 Vidéo : https://youtu.be/Hk180j4tNBc
