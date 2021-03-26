@@ -12,5 +12,5 @@ client_script 'client.lua'
 files {
     'index.html',
     'css/style.css',
-    'music/loading.mp3'
+    'music/music.mp3'
 }
